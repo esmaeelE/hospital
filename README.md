@@ -1,4 +1,4 @@
-# hospital
+# Hospital managment
 A simple student project with file.
 
 ## Compile
